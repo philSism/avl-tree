@@ -1,0 +1,4 @@
+READ_DATA input.txt
+INSERT_LINK 3 58
+DELETE_LINK 5 3
+WRITE_INDEX output.txt

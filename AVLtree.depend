@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1466068964 source:c:\users\alex\desktop\avltree\main.cpp
+	<iostream>
+	<string>
+	<tree.h>
+	<stdlib.h>
+
+1463589403 c:\users\alex\desktop\avltree\include\classinvertedindex.h
+	<iostream>
+	<fstream>
+
+1463589482 source:c:\users\alex\desktop\avltree\src\classinvertedindex.cpp
+	"ClassInvertedIndex.h"
+	<iostream>
+	<fstream>
+
+1466071791 c:\users\alex\desktop\avltree\include\tree.h
+	<iostream>
+	<fstream>
+
+1466088274 source:c:\users\alex\desktop\avltree\src\tree.cpp
+	"tree.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1466261762 source:c:\users\phil\desktop\avltree\main.cpp
+	<iostream>
+	<string>
+	<tree.h>
+	<stdlib.h>
+
+1466261762 c:\users\phil\desktop\avltree\include\tree.h
+	<iostream>
+	<fstream>
+
+1466261828 source:c:\users\phil\desktop\avltree\src\tree.cpp
+	"tree.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1466271724 source:c:\users\phil\desktop\ΑΠΘ\Δομές Δεδομένων\Εργασία Εξαμήνου\avltree\main.cpp
+	<iostream>
+	<string>
+	<tree.h>
+	<stdlib.h>
+
+1466271724 c:\users\phil\desktop\ΑΠΘ\Δομές Δεδομένων\Εργασία Εξαμήνου\avltree\include\tree.h
+	<iostream>
+	<fstream>
+
+1466346065 source:c:\users\phil\desktop\ΑΠΘ\Δομές Δεδομένων\Εργασία Εξαμήνου\avltree\src\tree.cpp
+	"tree.h"
+	<iostream>
+	<fstream>
+	<string>
+
